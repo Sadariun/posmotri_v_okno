@@ -30,7 +30,6 @@ ol {
 }
 
 .visually-hidden {
-  position: absolute;
   inline-size: 1px;
   block-size: 1px;
   overflow: hidden;
@@ -175,7 +174,6 @@ ol {
   width: 14px;
   height: 14px;
   background-color: #FFF;
-  position: absolute;
 }
 
 .search-form__label-text {
